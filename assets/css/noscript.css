@@ -32,7 +32,14 @@
 
 	#sidebar > .inner {
 		opacity: 1 !important;
+	
 	}
+
+	#sidebar > .inner a {
+		color: gold;
+	
+	}
+
 
 	#sidebar nav > ul > li {
 		-moz-transform: none !important;

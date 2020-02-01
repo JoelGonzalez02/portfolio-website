@@ -190,6 +190,13 @@ input, select, textarea {
 		font-size: 2.75em;
 	}
 
+	.inner h1, h2 {
+		color: gold;
+	}
+
+	
+	
+
 		h1.major {
 			margin: 0 0 1.3em 0;
 			position: relative;
@@ -3129,6 +3136,7 @@ input, select, textarea {
 				padding: 3em 2em 1em 2em ;
 			}
 
+			
 		}
 
 /* Table */
@@ -3240,7 +3248,7 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #5e42a6;
+			background-color: #9542a6;
 		}
 
 		.wrapper.style1-alt {
@@ -3761,7 +3769,7 @@ input, select, textarea {
 			}
 
 			#sidebar nav a:before {
-				background: #3c2c62;
+				background:rgb(255, 220, 22); 
 			}
 
 			#sidebar nav a:after {
